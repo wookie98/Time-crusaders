@@ -1,0 +1,3 @@
+Install CPCTelera
+Execute in this folder "make"
+For seeing the project once compiled execute "cpct_winape -as"
